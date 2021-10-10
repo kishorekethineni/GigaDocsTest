@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GigaDocs Test</string>
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+        <item>Not Specify</item>
+    </string-array>
+</resources>
